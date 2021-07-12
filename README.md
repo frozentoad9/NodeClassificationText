@@ -1,4 +1,4 @@
-# Graph_Convolutional_Networks_Node_Classification
+# Node_Classification_using_GCN
 
 Training Graph Convolutional Networks for Node Classification task. <br>
 
